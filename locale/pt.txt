@@ -3,9 +3,10 @@
 ## Tour
 
 ### Description
+tour.description = R. Boturoca, 31 - Vila Indiana, São Paulo - SP, 05586-010
 
 ### Title
-tour.name = Sem Título 47
+tour.name = Ultrafarma - Vila Indiana - Tour Virtual 360°
 
 ## Skin
 
