@@ -1,19 +1,14 @@
 {
+ "name": "Ultrafarma - Vila Indiana - Tour Virtual 360°",
+ "background_color": "#FFFFFF",
+ "description": "R. Boturoca, 31 - Vila Indiana, São Paulo - SP, 05586-010",
+ "display": "fullscreen",
+ "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
-   "sizes": "150x150",
-   "src": "misc/icon150.png"
-  },
-  {
-   "type": "image/png",
-   "sizes": "16x16",
-   "src": "misc/icon16.png"
-  },
-  {
-   "type": "image/png",
-   "sizes": "180x180",
-   "src": "misc/icon180.png"
+   "sizes": "512x512",
+   "src": "misc/icon512.png"
   },
   {
    "type": "image/png",
@@ -22,24 +17,29 @@
   },
   {
    "type": "image/png",
-   "sizes": "32x32",
-   "src": "misc/icon32.png"
+   "sizes": "180x180",
+   "src": "misc/icon180.png"
   },
   {
    "type": "image/png",
-   "sizes": "512x512",
-   "src": "misc/icon512.png"
+   "sizes": "150x150",
+   "src": "misc/icon150.png"
   },
   {
    "type": "image/png",
    "sizes": "64x64",
    "src": "misc/icon64.png"
+  },
+  {
+   "type": "image/png",
+   "sizes": "32x32",
+   "src": "misc/icon32.png"
+  },
+  {
+   "type": "image/png",
+   "sizes": "16x16",
+   "src": "misc/icon16.png"
   }
  ],
- "background_color": "#FFFFFF",
- "name": "Ultrafarma - Vila Indiana - Tour Virtual 360°",
- "description": "R. Boturoca, 31 - Vila Indiana, São Paulo - SP, 05586-010",
- "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "start_url": "index.htm"
+ "theme_color": "#FFFFFF"
 }
